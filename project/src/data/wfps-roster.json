@@ -1,0 +1,343 @@
+{
+  "stations": {
+    "1": {
+      "name": "Fire Station 1",
+      "address": "65 Ellen Street (Downtown)",
+      "built": "1965",
+      "units": {
+        "E101": { "type": "Engine", "model": "2024 Pierce Enforcer 6010", "specs": "1500/420/33F" },
+        "E102": { "type": "Engine", "model": "2021 Pierce Enforcer 6010", "specs": "1500/420/33F", "notes": "Ex-Engine 4" },
+        "E103": { "type": "Engine", "model": "2024 Pierce Enforcer 6010", "specs": "1500/420/33F" },
+        "E104": { "type": "Engine", "model": "2022 Pierce Enforcer 6010", "specs": "1500/420/33F", "notes": "Ex-Engine 103" },
+        "L1": { "type": "Ladder", "model": "2019 E-One Cyclone II X", "specs": "1750/-/100' HP rear-mount platform" },
+        "31": { "type": "Paramedic", "model": "Chevrolet Express / Crestline" },
+        "91": { "type": "Paramedic", "model": "Chevrolet Express / Crestline" }
+      }
+    },
+    "2": {
+      "name": "Fire Station 2",
+      "address": "55 Watt Street (Elmwood)",
+      "built": "1990, renovated 2018",
+      "units": {
+        "E2": { "type": "Engine", "model": "2013 Spartan Metro Star / Fort Garry", "specs": "1500/600/25F" },
+        "L2": { "type": "Ladder", "model": "2023 E-One Typhoon 6x4", "specs": "1545/400/30F/100' HR rear-mount" },
+        "02": { "type": "Paramedic", "model": "2009 Chevrolet Express / Crestline" },
+        "40": { "type": "Paramedic", "model": "" }
+      }
+    },
+    "3": {
+      "name": "Fire Station 3",
+      "address": "337 Rue Des Meurons (Norwood)",
+      "built": "1969",
+      "units": {
+        "E3": { "type": "Engine", "model": "2015 Spartan Metro Star / Fort Garry", "specs": "1500/600/25F" },
+        "WR3": { "type": "Water Rescue", "model": "2017 Freightliner M2 106 / Fort Garry" },
+        "D3": { "type": "District Chief", "model": "2018 Chevrolet Silverado 2500" }
+      }
+    },
+    "4": {
+      "name": "Fire Station 4",
+      "address": "150 Osborne Street (Osborne Village)",
+      "built": "1958",
+      "units": {
+        "E4": { "type": "Engine", "model": "2024 Pierce Enforcer 6010", "specs": "1500/420/33F" },
+        "R4": { "type": "Rescue", "model": "2021 Pierce Enforcer 6010", "specs": "1500/420/33F" },
+        "D4": { "type": "District Chief", "model": "2018 Chevrolet Silverado 2500" }
+      }
+    },
+    "5": {
+      "name": "Fire Station 5",
+      "address": "845 Sargent Avenue (West End)",
+      "built": "1910, addition 1982, renovated 2018",
+      "units": {
+        "E5": { "type": "Engine", "model": "2021 Pierce Enforcer 6010", "specs": "1500/420/33F" },
+        "R5": { "type": "Rescue", "model": "2021 Pierce Enforcer 6010", "specs": "1500/420/33F" },
+        "S5": { "type": "Safety", "model": "2025 Ford Transit" },
+        "05": { "type": "Paramedic", "model": "" },
+        "92": { "type": "Paramedic", "model": "" }
+      }
+    },
+    "6": {
+      "name": "Fire Station 6",
+      "address": "603 Redwood Avenue (North End)",
+      "built": "1998, addition 2016",
+      "units": {
+        "E6": { "type": "Engine", "model": "2021 Pierce Enforcer 6010", "specs": "1500/420/33F" },
+        "R6": { "type": "Rescue", "model": "2021 Pierce Enforcer 6010", "specs": "1500/420/33F" },
+        "06": { "type": "Paramedic", "model": "" },
+        "46": { "type": "Paramedic", "model": "" }
+      }
+    },
+    "7": {
+      "name": "Fire Station 7",
+      "address": "10 Allan Blye Drive (Amber Trails)",
+      "built": "1997",
+      "units": {
+        "E7": { "type": "Engine", "model": "2013 Spartan Metro Star / Fort Garry", "specs": "1500/600/30F" },
+        "H7": { "type": "Hazmat", "model": "1995 Pierce Saber / Fort Garry" },
+        "RH7": { "type": "Rehab", "model": "1984 GMC 6000" }
+      }
+    },
+    "8": {
+      "name": "Fire Station 8",
+      "address": "640 Kimberly Avenue (East Kildonan)",
+      "built": "1969, renovated 2019",
+      "units": {
+        "E8": { "type": "Engine", "model": "2015 Spartan Metro Star / Fort Garry", "specs": "1500/600/25F" },
+        "R8": { "type": "Rescue", "model": "2021 Pierce Enforcer 6024", "specs": "21.5' walk-around" }
+      }
+    },
+    "9": {
+      "name": "Fire Station 9",
+      "address": "1083 Autumnwood Drive (Windsor Park)",
+      "built": "Opened April 2, 2025",
+      "units": {
+        "E9": { "type": "Engine", "model": "2018 Spartan Metro Star / Fort Garry", "specs": "1500/600/25F" },
+        "R9": { "type": "Rescue", "model": "2018 Spartan Metro Star / Fort Garry", "specs": "1500/600/25F" },
+        "H9": { "type": "Hazmat", "model": "2021 International HV607 / SVI", "specs": "30' walk-in" },
+        "FI9": { "type": "Fire Investigator", "model": "2015 Ford F-250" },
+        "09": { "type": "Paramedic", "model": "" }
+      }
+    },
+    "10": {
+      "name": "Fire Station 10",
+      "address": "1354 Border Street (Brooklands)",
+      "built": "1967, renovated 2016",
+      "units": {
+        "E10": { "type": "Engine", "model": "2018 Spartan Metro Star / Fort Garry", "specs": "1500/600/25F" },
+        "D10": { "type": "District Chief", "model": "2018 Chevrolet Silverado 2500" },
+        "45": { "type": "Paramedic", "model": "" }
+      }
+    },
+    "11": {
+      "name": "Fire Station 11",
+      "address": "1705 Portage Avenue (St. James)",
+      "built": "2015",
+      "units": {
+        "E11": { "type": "Engine", "model": "2021 Pierce Enforcer 6010", "specs": "1500/420/33F" },
+        "L11": { "type": "Ladder", "model": "2016 E-One Cyclone II X", "specs": "1750/-/100' HP rear-mount platform" },
+        "R11": { "type": "Rescue", "model": "2021 Pierce Enforcer 6024", "specs": "21.5' walk-around" },
+        "30": { "type": "Paramedic", "model": "" },
+        "D75": { "type": "District Chief Paramedic", "model": "2023 Ford Explorer Police Interceptor Utility" }
+      }
+    },
+    "12": {
+      "name": "Fire Station 12",
+      "address": "1780 Taylor Avenue (River Heights)",
+      "built": "Opened 2012",
+      "units": {
+        "12": { "type": "Engine", "model": "2018 Spartan Metro Star / Fort Garry", "specs": "1500/600/25F" },
+        "E12": { "type": "Engine", "model": "2018 Spartan Metro Star / Fort Garry", "specs": "1500/600/25F" },
+        "12": { "type": "Paramedic", "model": "Chevrolet Express / Crestline" }
+      }
+    },
+    "13": {
+      "name": "Fire Station 13",
+      "address": "799 Lilac Street (Fort Rouge)",
+      "built": "1979, Renovated 2021",
+      "units": {
+        "E13": { "type": "Engine", "model": "2013 Spartan Metro Star / Fort Garry", "specs": "1500/600/30F" },
+        "L13": { "type": "Ladder", "model": "2008 E-One Cyclone II 5800", "specs": "1750/250/100' HP rear-mount platform" },
+        "13": { "type": "Paramedic", "model": "Chevrolet Express / Crestline" },
+        "WR131": { "type": "Water Rescue", "model": "2020 Stanley 22' landing craft" },
+        "WR132": { "type": "Water Rescue", "model": "1999 Hi-Tech Fabricators 22' landing craft" }
+      }
+    },
+    "14": {
+      "name": "Fire Station 14",
+      "address": "1057 St. Mary's Road (St. Vital)",
+      "built": "1957, renovated 1975",
+      "units": {
+        "E14": { "type": "Engine", "model": "2021 Pierce Enforcer 6010", "specs": "1500/420/33F" },
+        "14": { "type": "Paramedic", "model": "2019 Chevrolet Express / Crestline" }
+      }
+    },
+    "15": {
+      "name": "Fire Station 15 (Temporary Modular)",
+      "address": "130 Eaglewood Drive",
+      "built": "Opened December 2024",
+      "units": {
+        "E15": { "type": "Engine", "model": "2013 Spartan Metro Star / Fort Garry", "specs": "1500/600/30F" },
+        "42": { "type": "Paramedic", "model": "" }
+      }
+    },
+    "16": {
+      "name": "Fire Station 16",
+      "address": "1001 McGregor Street (West Kildonan)",
+      "built": "1969, renovated 2018",
+      "units": {
+        "E16": { "type": "Engine", "model": "2020 Pierce Impel 7010", "specs": "1250/625/17F" },
+        "L16": { "type": "Ladder", "model": "2022 E-One Typhoon 5800", "specs": "1800/400/30F/100' HR rear-mount" },
+        "16": { "type": "Paramedic", "model": "" }
+      }
+    },
+    "17": {
+      "name": "Fire Station 17",
+      "address": "1501 Church Avenue (Inkster Industrial Park)",
+      "built": "1963, renovated 2018",
+      "units": {
+        "E17": { "type": "Engine", "model": "2013 Spartan Metro Star / Fort Garry", "specs": "1500/600/25F" },
+        "48": { "type": "Paramedic", "model": "2008 Ford E-450 / Crestline" },
+        "D73": { "type": "District Chief Paramedic", "model": "2023 Ford Explorer Police Interceptor" }
+      }
+    },
+    "18": {
+      "name": "Fire Station 18",
+      "address": "5000 Roblin Boulevard (Charleswood)",
+      "built": "Opened April 2012",
+      "units": {
+        "E18": { "type": "Engine", "model": "2013 Spartan Metro Star / Fort Garry", "specs": "1500/600/30F" },
+        "18": { "type": "Paramedic", "model": "" },
+        "WER1": { "type": "Wildland Emergency Response", "model": "2011 Chevrolet Silverado 2500 4x4" }
+      }
+    },
+    "19": {
+      "name": "Fire Station 19",
+      "address": "320 Whytewold Road (Silver Heights)",
+      "built": "1959",
+      "units": {
+        "E19": { "type": "Engine", "model": "2020 Pierce Impel 7010", "specs": "1250/625/17F" }
+      }
+    },
+    "20": {
+      "name": "Fire Station 20",
+      "address": "525 Banting Drive (Assiniboia)",
+      "built": "1972",
+      "units": {
+        "E20": { "type": "Engine", "model": "2021 Pierce Enforcer 6010", "specs": "1500/420/33F" },
+        "20": { "type": "Paramedic", "model": "" }
+      }
+    },
+    "21": {
+      "name": "Fire Station 21",
+      "address": "1446 Regent Avenue West (West Transcona)",
+      "built": "2007",
+      "units": {
+        "E21": { "type": "Engine", "model": "2013 Spartan Metro Star / Fort Garry", "specs": "1500/600/30F" },
+        "49": { "type": "Paramedic", "model": "2016 Chevrolet Express / Crestline" },
+        "D72": { "type": "District Chief Paramedic", "model": "2023 Ford Explorer Police Interceptor Utility" }
+      }
+    },
+    "22": {
+      "name": "Fire Station 22",
+      "address": "1567 Waverley Street (Fort Garry Industrial Park)",
+      "built": "1977",
+      "units": {
+        "E22": { "type": "Engine", "model": "2015 Spartan Metro Star / Fort Garry", "specs": "1500/600/25F" },
+        "R22": { "type": "Rescue", "model": "2021 Pierce Enforcer 6010", "specs": "1500/420/33F" },
+        "T22": { "type": "Tanker", "model": "2018 Freightliner M2 112 / Acres", "specs": "420/3500" },
+        "22": { "type": "Paramedic", "model": "" },
+        "17": { "type": "Paramedic", "model": "" }
+      }
+    },
+    "23": {
+      "name": "Fire Station 23",
+      "address": "880 Dalhousie Drive (Fort Richmond)",
+      "built": "1968 / Renovated 2021",
+      "units": {
+        "E23": { "type": "Engine", "model": "2006 Spartan Metro Star / Fort Garry", "specs": "1250/800/30F" },
+        "L23": { "type": "Ladder", "model": "2024 Spartan FC-94 / E-One HP 75", "specs": "1250/420/75' rear-mount ladder" },
+        "WR23": { "type": "Water Rescue", "model": "2017 Freightliner M2 106 / Fort Garry" },
+        "T23": { "type": "Tanker", "model": "2017 Freightliner M2 112 / Acres", "specs": "420/3500" }
+      }
+    },
+    "24": {
+      "name": "Fire Station 24",
+      "address": "1665 Rothesay Street (North Kildonan)",
+      "built": "1975",
+      "units": {
+        "E24": { "type": "Engine", "model": "2015 Spartan Metro Star / Fort Garry", "specs": "1500/600/30F" },
+        "24": { "type": "Paramedic", "model": "" },
+        "D24": { "type": "District Chief", "model": "2018 Chevrolet Silverado 2500" }
+      }
+    },
+    "25": {
+      "name": "Fire Station 25",
+      "address": "701 Day Street (Transcona)",
+      "built": "1985",
+      "units": {
+        "E25": { "type": "Engine", "model": "2013 Spartan Metro Star / Fort Garry", "specs": "1500/600/30F" },
+        "BN25": { "type": "Bison", "model": "2019 Ford F-550 / Acres", "specs": "250/400/30F" },
+        "25": { "type": "Paramedic", "model": "" }
+      }
+    },
+    "26": {
+      "name": "Fire Station 26",
+      "address": "1525 Dakota Street (River Park South)",
+      "built": "1994",
+      "units": {
+        "E26": { "type": "Engine", "model": "2015 Spartan Metro Star / Fort Garry", "specs": "1500/600/25F" },
+        "BN26": { "type": "Bison", "model": "2019 Ford F-550 / Acres", "specs": "250/400/30F" },
+        "W26": { "type": "Wildland", "model": "2013 Bobcat 3600" }
+      }
+    },
+    "27": {
+      "name": "Fire Station 27",
+      "address": "27 Sage Creek Boulevard (Sage Creek)",
+      "built": "Opened 2012",
+      "units": {
+        "E27": { "type": "Engine", "model": "2013 Spartan Metro Star / Fort Garry", "specs": "1500/600/30F" },
+        "27": { "type": "Paramedic", "model": "Chevrolet Express / Crestline" }
+      }
+    },
+    "30": {
+      "name": "EMS Station 30",
+      "address": "524 Osborne Street (Fort Rouge)",
+      "built": "1915. Renovated 2021.",
+      "units": {
+        "43": { "type": "Paramedic", "model": "Chevrolet Express / Crestline" },
+        "93": { "type": "Paramedic", "model": "" },
+        "95": { "type": "Paramedic", "model": "Chevrolet Express / Crestline" },
+        "D74": { "type": "District Chief Paramedic", "model": "2023 Ford Police Interceptor Utility" },
+        "EPIC2": { "type": "EPIC", "model": "2019 Chevrolet Equinox" }
+      }
+    },
+    "31": {
+      "name": "EMS Station 31",
+      "address": "726 Furby Street (Downtown)",
+      "built": "1989",
+      "units": {
+        "01": { "type": "Paramedic", "model": "" },
+        "26": { "type": "Paramedic", "model": "" },
+        "41": { "type": "Paramedic", "model": "" },
+        "D76": { "type": "District Chief Paramedic", "model": "2023 Ford Explorer Police Interceptor" }
+      }
+    },
+    "36": {
+      "name": "EMS Station 36",
+      "address": "2490 Portage Avenue (Silver Heights)",
+      "built": "1990",
+      "units": {
+        "36": { "type": "Paramedic", "model": "" }
+      }
+    },
+    "40": {
+      "name": "EMS Station 40",
+      "address": "1030 Pacific Avenue (Downtown / North End)",
+      "built": "Opened 2010",
+      "units": {
+        "94": { "type": "Paramedic", "model": "2010 Chevrolet Express 4500 / Crestline Bariatric", "notes": "Bariatric" },
+        "96": { "type": "Paramedic", "model": "" },
+        "97": { "type": "Paramedic", "model": "" },
+        "98": { "type": "Paramedic", "model": "" },
+        "100": { "type": "Paramedic", "model": "" },
+        "86": { "type": "Chase Car", "model": "Ford Interceptor Utility" },
+        "D74": { "type": "District Chief Paramedic", "model": "2023 Ford Police Interceptor Utility" },
+        "D76": { "type": "District Chief Paramedic", "model": "2023 Ford Explorer Police Interceptor" }
+      }
+    },
+    "ELAT": {
+      "name": "ELAT - Enhanced Low-Acuity Triage",
+      "address": "Phone Consult Service (Remote)",
+      "built": "Launched May 2021",
+      "units": {
+        "ELAT2": { 
+          "type": "Advanced Care Paramedic", 
+          "model": "Remote Triage Assessment Service", 
+          "specs": "Low-acuity patient evaluation", 
+          "notes": "Enhanced Low-Acuity Triage (ELAT) program - Advanced Care Paramedic conducts in-depth medical assessments for low-acuity patients via phone to determine if alternative transport can be used instead of ambulance" 
+        }
+      }
+    }
+  }
+}
