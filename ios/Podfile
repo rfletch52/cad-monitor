@@ -1,0 +1,8 @@
+@@ .. @@
+   end
+ 
+-  target 'WinnipegCADMonitorTests\' do
++  target 'WinnipegCADMonitorTests\' do
+     inherit! :complete
+     # Pods for testing
+   end
